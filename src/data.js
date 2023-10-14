@@ -1,13 +1,5 @@
 export const projects = [
   {
-    title: "SoundGear",
-    subtitle: "React, Strapi, Stripe and MySQL",
-    description:
-      "A responsive MultiUser E-Commerce Website built with React linked with Stripe Payment portal providing multiple features",
-    image: "./project-8.gif",
-    link: "#",
-  },
-  {
     title: "NewsMan",
     subtitle: "React and API",
     description:
@@ -56,5 +48,6 @@ export const skills = [
   "Express.js",
   "Node",
   "MySQL",
-  "Strapi",
+  "Machine Learning",
+  "Deep Learning"
 ];
